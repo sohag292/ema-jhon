@@ -1,19 +1,10 @@
-.shop-container{
-    display: grid;
-    grid-template-columns: 4fr 1fr;
+.review-container{
+    margin: 50px auto;
 }
-.products-container{
-    margin: 50px;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 45px
-}
-
-.proceed-link{
+.proced-link{
     text-decoration: none;
 }
-
-.btn-proceed{
+.proced-checkout{
     background-color: #FF9900;
     width: 100%;
     height: 46px;
